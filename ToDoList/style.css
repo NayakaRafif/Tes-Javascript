@@ -1,0 +1,42 @@
+html, body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color:aqua ;
+
+}
+.countainer {
+    width: 360px;
+}
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+#inputField{
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    background-color: white;
+}
+#click{
+    height:50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.to-do{
+    margin-top: 25px;
+}
+
+body h1{
+    font-size: 30px;
+    color: aliceblue;
+    font-style: oblique;
+}
+
